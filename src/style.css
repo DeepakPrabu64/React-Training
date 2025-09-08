@@ -1,0 +1,10 @@
+.form-container{
+    height: 100vh;
+    background-color:  #A8E6CF; 
+    border-radius: 0 600px 0 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.full-container{
+    background-color:grey;
+}
